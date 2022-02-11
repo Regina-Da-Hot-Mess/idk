@@ -13,7 +13,7 @@
         $lname= $_GET['lname'];
 
         echo "Welcome ". $fname. " ".$lname;
-
+        echo "yassified"
       
     ?>
 </body>
